@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Shakhawat%20Hossain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML&descSize=22&descAlignY=58" alt="header" />
 
 <a href="https://github.com/shaq-bracu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=40&lines=Software+Engineer+with+an+AI%2FML+edge;Building+full-stack+apps+%26+intelligent+systems;PyTorch+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP;CS+Graduate+%40+BRAC+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=40&lines=Software+Engineer+with+an+AI%2FML+edge;Building+full-stack+apps+%26+intelligent+systems;Python+%E2%80%A2+DevOps+%E2%80%A2+HCI;CS+Graduate+%40+BRAC+University" alt="Typing SVG" />
 </a>
 
 <br/>

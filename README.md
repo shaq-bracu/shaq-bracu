@@ -1,22 +1,45 @@
-[README.md](https://github.com/user-attachments/files/33844864/README.md)
-
-<!-- Save this as README.md in a PUBLIC repo named exactly: shaq-bracu/shaq-bracu -->
+[README (2).md](https://github.com/user-attachments/files/33845397/README.2.md)
+<!-- Save as README.md in the PUBLIC repo shaq-bracu/shaq-bracu, together with the assets/ folder -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Shakhawat%20Hossain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML&descSize=22&descAlignY=58" alt="header" />
+<img src="./assets/header.svg" alt="Shakhawat Hossain | Software Engineer, AI / ML" width="100%" />
 
 <a href="https://github.com/shaq-bracu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=40&lines=Software+Engineer+with+an+AI%2FML+edge;Building+full-stack+apps+%26+intelligent+systems;Python+%E2%80%A2+DevOps+%E2%80%A2+HCI;CS+Graduate+%40+BRAC+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F5C542&center=true&vCenter=true&width=720&height=40&lines=Software+Engineer+with+an+AI%2FML+edge;Chasing+greatness%2C+one+commit+at+a+time;Python+%E2%80%A2+DevOps+%E2%80%A2+HCI;CS+Graduate+%40+BRAC+University" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shaq-bracu&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/Dhaka-Bangladesh-1a1b26?style=flat-square&logo=googlemaps&logoColor=7aa2f7" alt="location" />
-<img src="https://img.shields.io/badge/BRAC_University-CGPA_3.48%2F4.00-1a1b26?style=flat-square&logo=academia&logoColor=bb9af7" alt="education" />
+<img src="https://komarev.com/ghpvc/?username=shaq-bracu&label=PROFILE+VIEWS&color=f5c542&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/badge/Dhaka-Bangladesh-0d1117?style=flat-square&logo=googlemaps&logoColor=f5c542" alt="location" />
+<img src="https://img.shields.io/badge/BRAC_University-CGPA_3.48%2F4.00-0d1117?style=flat-square&logo=academia&logoColor=e11d48" alt="education" />
+<img src="https://img.shields.io/badge/Role_Model-CR7-e11d48?style=flat-square&labelColor=0d1117" alt="role model" />
 
 </div>
+
+---
+
+## ⚽ Player Card
+
+<div align="center">
+  <img src="./assets/dev-card.svg" alt="Developer player card" width="270" />
+  <br/>
+  <sub>Ratings are just for fun (and the gamer in me).</sub>
+</div>
+
+---
+
+## 🐐 Role Model: Cristiano Ronaldo
+
+I don't just admire the goals. I admire what sits behind them: discipline, an obsessive work ethic, and the habit of reinventing his game to keep getting better at the highest level. That is the mindset I try to bring to engineering.
+
+| What I admire about CR7 | How I apply it |
+| :-- | :-- |
+| 🔥 Relentless discipline | Show up and practice consistently: build, ship, iterate, repeat |
+| 📈 Never being satisfied | Measure, refactor, and chase the next improvement |
+| 🔄 Adapting his game over time | Keep learning new stacks, from web to AI/ML to research |
+| 🏟️ Delivering in the big moments | Stay calm and focused on deadlines, demos, and submissions |
 
 ---
 
@@ -31,10 +54,11 @@ class Shakhawat:
         self.focus       = ["Full-Stack Development", "Computer Vision", "NLP", "Deep Learning"]
         self.currently   = "GCI World Program, Matsuo-Iwasawa Lab, The University of Tokyo"
         self.research    = "Co-author of a multimodal news verification study (under review)"
+        self.role_model  = "Cristiano Ronaldo"
         self.fun_fact    = "I am a self-claimed football pundit and a semi-pro gamer"
 
     def say_hi(self):
-        return "Let's build something useful together!"
+        return "Let's build something useful together! SIUUU"
 ```
 
 - 🔭 Building end-to-end products, from clean backend and frontend code to practical AI features
@@ -43,27 +67,38 @@ class Shakhawat:
 
 ---
 
-## 🛠️ Tech Stack
+## 📋 My Starting XI
 
-**Languages & Web**
+<div align="center">
+  <img src="./assets/starting-xi.svg" alt="Tech stack Starting XI in a 4-3-3 formation" width="100%" />
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,fastapi,flask&theme=dark" alt="languages and web" />
-</p>
-
-**AI / ML & Data**
+**On the bench (also in the squad):**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,powerbi&theme=dark" alt="ai ml and data" />
-</p>
-
-**Databases, DevOps & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,kubernetes,aws,git,github,githubactions,linux,postman&theme=dark" alt="databases devops tools" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,express,flask,mysql,sqlite,tensorflow,opencv,sklearn,pandas,numpy,powerbi,aws,kubernetes,githubactions,postman&theme=dark" alt="more skills" />
 </p>
 
 **Also:** LangChain · LangGraph · Hugging Face Transformers · RAG & Vector Search · OCR · CUDA & Mixed-Precision Training
+
+---
+
+## 🏆 Season Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><h2>3.48</h2><sub>CGPA<br/>(out of 4.00)</sub></td>
+    <td align="center"><h2>3,670</h2><sub>labeled cases<br/>validated</sub></td>
+    <td align="center"><h2>86.5%</h2><sub>strict state<br/>agreement</sub></td>
+    <td align="center"><h2>0.88</h2><sub>test Dice<br/>(PetVision)</sub></td>
+    <td align="center"><h2>85.6</h2><sub>SUS usability<br/>score</sub></td>
+    <td align="center"><h2>1</h2><sub>paper<br/>under review</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -80,17 +115,17 @@ class Shakhawat:
 <div align="center">
 
 <a href="https://github.com/shaq-bracu/course-tutor-app">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=course-tutor-app&theme=tokyonight&hide_border=true" alt="course-tutor-app" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=course-tutor-app&bg_color=0d1117&title_color=f5c542&icon_color=e11d48&text_color=c9d1d9&hide_border=true" alt="course-tutor-app" />
 </a>
 <a href="https://github.com/shaq-bracu/Road-Crash">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=Road-Crash&theme=tokyonight&hide_border=true" alt="Road-Crash" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=Road-Crash&bg_color=0d1117&title_color=f5c542&icon_color=e11d48&text_color=c9d1d9&hide_border=true" alt="Road-Crash" />
 </a>
 <br/>
 <a href="https://github.com/shaq-bracu/Bullet-Frenzy">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=Bullet-Frenzy&theme=tokyonight&hide_border=true" alt="Bullet-Frenzy" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=Bullet-Frenzy&bg_color=0d1117&title_color=f5c542&icon_color=e11d48&text_color=c9d1d9&hide_border=true" alt="Bullet-Frenzy" />
 </a>
 <a href="https://github.com/shaq-bracu/P2P_filesharing">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=P2P_filesharing&theme=tokyonight&hide_border=true" alt="P2P_filesharing" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=shaq-bracu&repo=P2P_filesharing&bg_color=0d1117&title_color=f5c542&icon_color=e11d48&text_color=c9d1d9&hide_border=true" alt="P2P_filesharing" />
 </a>
 
 </div>
@@ -100,16 +135,16 @@ class Shakhawat:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Match Day Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaq-bracu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaq-bracu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaq-bracu&show_icons=true&bg_color=0d1117&title_color=f5c542&icon_color=e11d48&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaq-bracu&layout=compact&bg_color=0d1117&title_color=f5c542&text_color=c9d1d9&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=shaq-bracu&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=shaq-bracu&background=0d1117&ring=f5c542&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f5c542&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -134,4 +169,6 @@ class Shakhawat:
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=100&section=footer" alt="footer" width="100%" />
+<h3 align="center">⚽ Keep working. Keep improving. SIUUUUUU! 🐐</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,60:f5c542,100:e11d48&height=100&section=footer" alt="footer" width="100%" />

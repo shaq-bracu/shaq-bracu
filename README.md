@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/33847547/README.4.md)
+
 <!-- Save as README.md in the PUBLIC repo shaq-bracu/shaq-bracu, together with the assets/ folder -->
 
 <div align="center">

@@ -31,7 +31,7 @@ class Shakhawat:
         self.focus       = ["Full-Stack Development", "Computer Vision", "NLP", "Deep Learning"]
         self.currently   = "GCI World Program, Matsuo-Iwasawa Lab, The University of Tokyo"
         self.research    = "Co-author of a multimodal news verification study (under review)"
-        self.fun_fact    = "I train my own models locally and love turning them into real apps"
+        self.fun_fact    = "I am a self-claimed football pundit and a semi-pro gamer"
 
     def say_hi(self):
         return "Let's build something useful together!"

@@ -1,48 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" role="img" aria-label="Tech stack starting eleven in 4-3-3" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplYzAzMDEwYi00NTgwLTRhMTktOTk5Yi0zZjY3ZjEyMzhjMDMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNQlQvdckmAkQyT3cHsK55YAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3Y2NjZDhmYi0yYTk1LTRhOTAtOGM3Yi0xZTBiMTlmYTZjMWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNowBmslzW/PqV6M7REpqPvyAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggXd/DYjSA+VbJz7bDPmntwXeszPD/puknGBaBsgCI3gmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIn7SX3P2ef0ImvIYCrUH5kAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBdqTW4oahAWNLdP+lB88n8okDlcFUDkTquJa8CzyTce2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjSZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmVjMDMwMTBiLTQ1ODAtNGExOS05OTliLTNmNjdmMTIzOGMwMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjYxMmY3MzU4LTExOTktNDYyOC1iNmJmLTBlMTQ0MTQ3NmNkNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBd38NiNID5VsnPtsM+ae3Bd6zM8P+m6ScYFoGyAIjeCaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHTbhLNJjwW4EHSj60mPFgIde2VPYaC51kFVvBVtGZ1eiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggpl2QSZq8m+GW0pD4G/CwAPdZAwzY1vsWMlFs8Q+nFQl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQILJ6nZgCuSmTk3egF/CxjpS6+KxJCRaBGutpzVPUIpfmEj4eb4Uamruyt41rFfGzjcloQVbzIgxRIOe+VUjioQ=</c2pa:manifest></metadata>
-<rect width="800" height="470" rx="14" fill="#166534"/>
-<clipPath id="r"><rect width="800" height="470" rx="14"/></clipPath>
-<g clip-path="url(#r)"><rect x="0" y="0" width="80" height="470" fill="#166534"/><rect x="80" y="0" width="80" height="470" fill="#15803d"/><rect x="160" y="0" width="80" height="470" fill="#166534"/><rect x="240" y="0" width="80" height="470" fill="#15803d"/><rect x="320" y="0" width="80" height="470" fill="#166534"/><rect x="400" y="0" width="80" height="470" fill="#15803d"/><rect x="480" y="0" width="80" height="470" fill="#166534"/><rect x="560" y="0" width="80" height="470" fill="#15803d"/><rect x="640" y="0" width="80" height="470" fill="#166534"/><rect x="720" y="0" width="80" height="470" fill="#15803d"/></g>
-<g stroke="#fff" stroke-opacity=".75" stroke-width="2.5" fill="none">
- <rect x="14" y="14" width="772" height="442"/>
- <line x1="400.0" y1="14" x2="400.0" y2="456"/>
- <circle cx="400.0" cy="235.0" r="62"/>
- <rect x="14" y="120" width="130" height="230"/><rect x="14" y="185" width="52" height="100"/>
- <rect x="656" y="120" width="130" height="230"/><rect x="734" y="185" width="52" height="100"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" role="img" aria-label="Tech stack Starting XI in a 4-3-3 formation">
+<defs>
+ <linearGradient id="pitch" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a1128"/><stop offset="1" stop-color="#1c2541"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd700" stop-opacity=".12"/><stop offset="1" stop-color="#ffd700" stop-opacity="0"/></linearGradient>
+ <filter id="goldGlow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<!-- Background - dark elegant RM navy -->
+<rect width="800" height="470" rx="14" fill="url(#pitch)"/>
+<!-- Subtle grid pattern -->
+<g stroke="#ffd700" stroke-opacity=".04" stroke-width="1">
+  <line x1="0" y1="117" x2="800" y2="117"/><line x1="0" y1="235" x2="800" y2="235"/><line x1="0" y1="352" x2="800" y2="352"/>
+  <line x1="200" y1="0" x2="200" y2="470"/><line x1="400" y1="0" x2="400" y2="470"/><line x1="600" y1="0" x2="600" y2="470"/>
 </g>
-<circle cx="400.0" cy="235.0" r="4" fill="#fff"/>
-<rect x="290.0" y="26" width="220" height="30" rx="15" fill="#0b0f1a" fill-opacity=".8"/><text x="400.0" y="46" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="3" fill="#f5c542">STARTING XI · 4-3-3</text>
-<circle cx="70" cy="235" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="70" y="243" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">1</text>
-<rect x="26" y="269" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="70" y="285" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">Git</text><circle cx="200" cy="65" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="200" y="73" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">3</text>
-<rect x="156" y="99" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="200" y="115" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">Linux</text><circle cx="200" cy="170" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="200" y="178" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">4</text>
-<rect x="156" y="204" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="200" y="220" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">Docker</text><circle cx="200" cy="300" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="200" y="308" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">5</text>
-<rect x="156" y="334" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="200" y="350" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">MongoDB</text><circle cx="200" cy="405" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="200" y="413" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">2</text>
-<rect x="156" y="439" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="200" y="455" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">SQL</text><circle cx="400" cy="110" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="400" y="118" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">8</text>
-<rect x="356" y="144" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="400" y="160" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">FastAPI</text><circle cx="400" cy="235" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="400" y="243" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">10</text>
-<rect x="356" y="269" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="400" y="285" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">Node.js</text><circle cx="400" cy="360" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="400" y="368" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">6</text>
-<rect x="356" y="394" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="400" y="410" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">TypeScript</text><circle cx="620" cy="85" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="620" y="93" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">11</text>
-<rect x="576" y="119" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="620" y="135" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">PyTorch</text><circle cx="640" cy="235" r="30" fill="none" stroke="#f5c542" stroke-width="2.5"><animate attributeName="r" values="30;44;30" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="640" cy="235" r="27" fill="#f5c542" stroke="#fff" stroke-width="3"/>
-<text x="640" y="243" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#2b2108">7</text>
-<rect x="596" y="269" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="640" y="285" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">Python</text><circle cx="620" cy="385" r="27" fill="#e11d48" stroke="#fff" stroke-width="3"/>
-<text x="620" y="393" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="900" fill="#fff">9</text>
-<rect x="576" y="419" width="88" height="22" rx="11" fill="#0b0f1a" fill-opacity=".78"/>
-<text x="620" y="435" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">React</text>
+<!-- Pitch markings - minimalistic white -->
+<g stroke="#fff" stroke-opacity=".12" stroke-width="1.5" fill="none">
+  <rect x="14" y="14" width="772" height="442"/>
+  <line x1="400" y1="14" x2="400" y2="456"/>
+  <circle cx="400" cy="235" r="50"/>
+  <!-- Penalty areas -->
+  <rect x="14" y="140" width="100" height="190"/>
+  <rect x="686" y="140" width="100" height="190"/>
+  <!-- Goal areas -->
+  <rect x="14" y="190" width="40" height="90"/>
+  <rect x="746" y="190" width="40" height="90"/>
+</g>
+<circle cx="400" cy="235" r="3" fill="#ffd700" opacity=".4"/>
+<!-- Title pill -->
+<rect x="290" y="22" width="220" height="28" rx="14" fill="#0a1128" fill-opacity=".9" stroke="#ffd700" stroke-width="1" stroke-opacity=".3"/>
+<text x="400" y="41" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4" fill="#ffd700">STARTING XI · 4-3-3</text>
+
+<!-- ═══ GK ═══ -->
+<circle cx="70" cy="235" r="24" fill="none" stroke="#ffd700" stroke-width="2" opacity=".9"/>
+<circle cx="70" cy="235" r="22" fill="#0a1128" stroke="#ffd700" stroke-width="1.5"/>
+<text x="70" y="240" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#ffd700">1</text>
+<text x="70" y="270" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">Git</text>
+
+<!-- ═══ DEFENDERS (4) ═══ -->
+<!-- CB1 -->
+<circle cx="200" cy="85" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="200" y="90" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">3</text>
+<text x="200" y="118" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">Linux</text>
+<!-- CB2 -->
+<circle cx="200" cy="185" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="200" y="190" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">4</text>
+<text x="200" y="218" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">Docker</text>
+<!-- CB3 -->
+<circle cx="200" cy="285" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="200" y="290" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">5</text>
+<text x="200" y="318" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">MongoDB</text>
+<!-- CB4 -->
+<circle cx="200" cy="385" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="200" y="390" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">2</text>
+<text x="200" y="418" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">SQL</text>
+
+<!-- ═══ MIDFIELD (3) ═══ -->
+<!-- CM1 -->
+<circle cx="400" cy="120" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="400" y="125" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">8</text>
+<text x="400" y="153" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">FastAPI</text>
+<!-- CM2 (captain - #10) -->
+<circle cx="400" cy="235" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="400" y="240" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">10</text>
+<text x="400" y="268" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">Node.js</text>
+<!-- CM3 -->
+<circle cx="400" cy="350" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="400" y="355" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">6</text>
+<text x="400" y="383" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">TypeScript</text>
+
+<!-- ═══ FORWARDS (3) ═══ -->
+<!-- LW -->
+<circle cx="620" cy="85" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="620" y="90" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">11</text>
+<text x="620" y="118" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">PyTorch</text>
+
+<!-- ST (CR7 - Python) - STAR PLAYER with golden glow -->
+<circle cx="640" cy="235" r="30" fill="none" stroke="#ffd700" stroke-width="1.5" opacity=".5">
+  <animate attributeName="r" values="28;38;28" dur="2.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".5;0;.5" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="640" cy="235" r="24" fill="#ffd700" stroke="#fff" stroke-width="2"/>
+<text x="640" y="241" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="900" fill="#0a1128">7</text>
+<text x="640" y="270" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#ffd700">Python</text>
+
+<!-- RW -->
+<circle cx="620" cy="385" r="22" fill="#0a1128" stroke="#fff" stroke-width="1.5"/>
+<text x="620" y="390" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">9</text>
+<text x="620" y="418" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" fill="#ffffff" opacity=".85">React</text>
+
+<!-- Subtle RM branding hint at bottom -->
+<text x="400" y="462" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="8" font-weight="600" letter-spacing="3" fill="#ffd700" opacity=".25">HALA MADRID</text>
 </svg>
